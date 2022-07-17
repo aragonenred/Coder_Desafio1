@@ -1,6 +1,5 @@
 .header-nav{
     background-color: #f2e8e9;
-    height: 150px;
 }
 .header-nav-item a{
     text-decoration: none;
@@ -13,4 +12,9 @@
     font-size: 36px;
     color: black;
     margin: 0 10px 0;
+}
+.social-icon{
+    font-size: 25px;
+    color: #464646;
+    
 }
